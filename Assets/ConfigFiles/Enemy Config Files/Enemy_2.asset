@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d537ccd77c08d864a8f897cdc4e7df24, type: 3}
+  m_Name: Enemy_2
+  m_EditorClassIdentifier: 
+  _enemyPrefab: {fileID: 3957788079098734857, guid: 7598478c1fe0f354d90e8837152bd311, type: 3}
+  _enemySpriteConfig: {fileID: 11400000, guid: b2a23bd6e18c9d6489fe9590f5294dd8, type: 2}
+  _enemyBullets:
+  - {fileID: 21300000, guid: 150bf5cc3db7f9e4aa64b5c21b09c37d, type: 3}
+  - {fileID: 21300000, guid: 235190a45bbfaaa4687c28c9786200a4, type: 3}
+  - {fileID: 21300000, guid: 42d08e931cf81064a95837924d3a0040, type: 3}
+  _enemyPoints: 10
+  _maxEnemyHits: 5
+  _EnemyDamageToPlayer: 5
+  _timeBetweenShots: 3
+  _enemyMoveSpeed: 4
+  _spawnDistance: 20
+  _getRandomValues: 1

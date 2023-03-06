@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fa89597bd79afc448d880e3be06adcc, type: 3}
+  m_Name: DefaultEnemyFire
+  m_EditorClassIdentifier: 
+  _bulletPrefab: {fileID: 9034382150000991588, guid: 61fea077105096a4aa341fccec028c40, type: 3}
+  _weaponImage: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  _bulletCount: 1
+  _nextFireDelay: 1
+  _bulletSpeed: 70
+  _fireRate: 1
+  _damage: 1

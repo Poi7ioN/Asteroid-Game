@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab39bdba2469d34a9e23d09b23aba64, type: 3}
+  m_Name: PlayerConfigFile
+  m_EditorClassIdentifier: 
+  _maxPlayerHealth: 100
+  _maxPlayerLives: 3
+  _maxPlayerFuel: 100
+  _fuelDepletionRate: 1.5
+  _maxPlayerSpeed: 5.5
+  _playerRotationSpeed: 2.5

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1cb4622c4277494c8143db314453481, type: 3}
+  m_Name: Asteroid_4
+  m_EditorClassIdentifier: 
+  _asteroidPrefab: {fileID: 119557995765286863, guid: 7afbdd80f332d5448be0ce6482f56e8e, type: 3}
+  _asteroidSprites: {fileID: 11400000, guid: 02952e657d5eea946a744bce04092c97, type: 2}
+  _asteroidPoints: 20
+  _maxAsteriodSize: 2
+  _maxAsteriodHits: 2
+  _minSizeToSplit: 0.5
+  _moveSpeed: 20
+  _damageToPlayer: 5
+  _spawnDistance: 20
+  _trajectoryVariance: 50
+  _setRandomValues: 0

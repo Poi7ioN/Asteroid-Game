@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea54b5e5bc1eba14eb3f5a9a2bc2cb89, type: 3}
+  m_Name: Enemy_Sprites
+  m_EditorClassIdentifier: 
+  _Sprites:
+  - {fileID: 21300000, guid: 615ad49cc6f190647ac460475b1020b8, type: 3}
+  - {fileID: 21300000, guid: 7b4a191c9734de6458a6f19533efdb15, type: 3}
+  - {fileID: 21300000, guid: c49d31ffeb2089c4da3b2f5ff05258dd, type: 3}
+  - {fileID: 21300000, guid: 9fa15467d75b7d042a3262d2c10d7130, type: 3}
+  - {fileID: 21300000, guid: 7faa3dba8c936d248b583d023f43b1aa, type: 3}
+  - {fileID: 21300000, guid: f963ba056ead5b74ca4123a4d13d8e04, type: 3}
+  - {fileID: 21300000, guid: 08efba8caab9f7e42957c962733218bb, type: 3}
+  - {fileID: 21300000, guid: 3d787748c232dcd45b18b3cc90b957b4, type: 3}
+  - {fileID: 21300000, guid: 08ce6ee8dfe643d4ca39e85e44d34733, type: 3}
